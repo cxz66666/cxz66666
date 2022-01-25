@@ -7,7 +7,7 @@
     "aboutme": "自我介绍",
     "workExpList": "其他经历"
   },
-  "avatar": { "hidden": true },
+  "avatar": { "hidden": false },
   "profile": {
     "name": "陈旭征",
     "email": "cxz@zjueva.net",
@@ -53,7 +53,7 @@
     {
       "skill_name": "Golang",
       "skill_desc": "熟练使用Golang，能够基于Gin等框架进行web后端开发。",
-      "skill_level": 95
+      "skill_level": 100
     },
     {
       "skill_name": "Java",
@@ -67,7 +67,7 @@
     },
     {
       "skill_name": "React.js/JavaScript",
-      "skill_desc": "熟悉React.js的设计思想与使用，能够基于Ant Design Pro等框架进行中小型前端项目开发",
+      "skill_desc": "熟悉React.js的设计思想与使用，能够基于Ant Design Pro等框架进行中小型前端项目开发。",
       "skill_level": 90
     },
     {
@@ -96,11 +96,11 @@
       "project_role": "后端开发/架构/文档",
       "project_time": "2021.05 - 至今",
       "project_desc": "Notify是一款校园信息整合微信小程序，通过爬虫爬取各学院主页通知进行用户订阅信息的提醒与DDL推送。",
-      "project_content": "我在前期参与api lists的文档编写，之后负责后端框架的搭建与大部分的开发，后端基于Gin/Gorm开发，同时配合内存缓存/日志系统等，支持用户登录、订阅学院、创建ddl与ddl推送、新通知查看与设置状态、爬虫结果插入等功能"
+      "project_content": "我在前期参与api lists的文档编写，之后负责后端框架的搭建与大部分的开发，后端基于Gin/Gorm开发，同时配合内存缓存/日志系统等，支持用户登录、订阅学院、创建ddl与ddl推送、新通知查看与设置状态、爬虫结果插入等功能。"
     }
   ],
   "aboutme": {
-    "aboutme_desc": "浙江大学大三本科生，专业课GPA 4.9/5.0，全部课GPA 4.6/5.0，专业排名 2/156。热爱计算机科学，拥有充足的工程实践能力、出色的学习能力以及对新技术的热情。计算机基础扎实，对操作系统、计算机网络、数据库系统均有对应实现的项目。掌握一定的WEB前后端开发技能，能够自己设计、实现前后端分离的web项目。\n 获奖情况:国家奖学金、浙江大学一等奖学金、全国大学生数学竞赛一等奖、小程序大赛华东赛区三等奖"
+    "aboutme_desc": "浙江大学大三本科生，专业课GPA 4.9/5.0，全部课GPA 4.6/5.0，专业排名 2/156。热爱计算机科学，拥有充足的工程实践能力、出色的学习能力以及对新技术的热情。计算机基础扎实，对操作系统、计算机网络、数据库系统均有对应实现的项目。掌握一定的WEB前后端开发技能，能够自己设计、实现前后端分离的web项目。\n 获奖情况:  国家奖学金、浙江大学一等奖学金、全国大学生数学竞赛一等奖、小程序大赛华东赛区三等奖。"
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
