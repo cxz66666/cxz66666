@@ -7,7 +7,7 @@
     "aboutme": "自我介绍",
     "workExpList": "其他经历"
   },
-  "avatar": { "hidden": false },
+  "avatar": { "hidden": true },
   "profile": {
     "name": "陈旭征",
     "email": "cxz@zjueva.net",
@@ -31,14 +31,14 @@
   ],
   "workExpList": [
     {
-      "company_name": "EVA Tech",
-      "department_name": "HTML, CSS, JavaScript, React.js, Umi.js, Ant Design",
+      "company_name": "EVA Tech Leader",
+      "department_name": "React.js, Umi.js, Ant Design",
 
       "work_time": ["2020.06", "2021.06"],
       "work_desc": "EVA是浙江大学的一个志愿服务型学生社团，我担任其中的技术小组Leader的职务，该小组聚集了一群热爱计算机技术的同学。我的职责是进行协会主页、日常维修网站、纳新系统、活动系统的开发和维护，同时组织内训与技术分享。"
     },
     {
-      "company_name": "求是潮技术研发中心",
+      "company_name": "求是潮技术研发中心干事",
       "department_name": "Go-Gin, GORM, Wechat Mini Program",
       "work_time": ["2021.06", null],
       "work_desc": "求是潮是浙江大学学工委直属的学生组织，我在其中担任《Notify 校园信息整合平台小程序》前后端主要负责人与架构设计者，前端基于微信小程序开发工具与Vant组件库进行开发，后端基于Golang/Gin/GORM实现。"
@@ -47,18 +47,18 @@
   "skillList": [
     {
       "skill_name": "C/C++",
-      "skill_desc": "熟悉C/C++设计，正在深入学习Modern C++。《面向对象程序设计》 95/100",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "Java",
-      "skill_desc": "熟悉Java语言基础，了解常用数据结构与算法。《Java应用技术》 96/100",
+      "skill_desc": "熟悉C/C++语言，正在深入学习Modern C++。《面向对象程序设计》 95/100",
       "skill_level": 90
     },
     {
       "skill_name": "Golang",
       "skill_desc": "熟练使用Golang，能够基于Gin等框架进行web后端开发。",
-      "skill_level": 90
+      "skill_level": 95
+    },
+    {
+      "skill_name": "Java",
+      "skill_desc": "熟悉Java语言基础，了解常用数据结构与算法。《Java应用技术》 96/100",
+      "skill_level": 80
     },
     {
       "skill_name": "SQL",
@@ -66,14 +66,14 @@
       "skill_level": 90
     },
     {
-      "skill_name": "Verilog",
-      "skill_desc": "能使用Verilog进行简易CPU与其他体系结构的设计。《计算机组成/体系结构》96/100",
-      "skill_level": 90
-    },
-    {
       "skill_name": "React.js/JavaScript",
       "skill_desc": "熟悉React.js的设计思想与使用，能够基于Ant Design Pro等框架进行中小型前端项目开发",
       "skill_level": 90
+    },
+    {
+      "skill_name": "Verilog",
+      "skill_desc": "能使用Verilog进行简易CPU与其他体系结构的设计。《计算机组成/体系结构》96/100",
+      "skill_level": 80
     }
   ],
   "projectList": [
@@ -88,7 +88,7 @@
       "project_name": "MiniSQL",
       "project_role": "主要开发者",
       "project_time": "2021.05 - 2021.07",
-      "project_desc": "MiniSQL是一个简易的DBMS系统，支持数据库/表的创建与删除、多种数据类型、单表条件下复杂的查询语句、二级索引、事务等特征",
+      "project_desc": "MiniSQL是一个基于Golang的DBMS系统，支持数据库/表的创建与删除、多种数据类型、单表条件下复杂的嵌套查询语句、二级索引、事务、底层并发等特征",
       "project_content": "我在其中主要负责整体架构设计，以及除了index部分之外所有内容的实现。Interpret部分使用goyacc，Catalog部分使用msgp进行数据的压缩序列化，Index部分使用b+树/非聚簇索引，Buffer部分使用LRU+Mutex，在10w量级的数据量测试下有着非常好的性能。"
     },
     {
@@ -96,11 +96,11 @@
       "project_role": "后端开发/架构/文档",
       "project_time": "2021.05 - 至今",
       "project_desc": "Notify是一款校园信息整合微信小程序，通过爬虫爬取各学院主页通知进行用户订阅信息的提醒与DDL推送。",
-      "project_content": "我在前期参与api lists的文档编写，之后负责后端框架的搭建与大部分的开发，后端基于Gin/Gorm开发，同时配合内存缓存/日志系统等，支持用户登录、订阅学院信息、创建ddl与ddl推送、新通知查看与设置状态、爬虫结果插入等功能"
+      "project_content": "我在前期参与api lists的文档编写，之后负责后端框架的搭建与大部分的开发，后端基于Gin/Gorm开发，同时配合内存缓存/日志系统等，支持用户登录、订阅学院、创建ddl与ddl推送、新通知查看与设置状态、爬虫结果插入等功能"
     }
   ],
   "aboutme": {
-    "aboutme_desc": "浙江大学大三本科生，专业课GPA 4.9/5.0，全部课GPA 4.6/5.0，专业排名 2/156。热爱计算机科学，拥有充足的工程实践能力、出色的学习能力以及对新技术的热情，计算机基础扎实，对操作系统、计算机网络、数据库系统均有对应实现的项目。掌握一定的WEB前后端开发技能，能够自己设计、实现前后端分离的web项目。\n 获奖情况:浙江大学一等奖学金、国家奖学金、全国大学生数学竞赛一等奖、小程序大赛华东赛区三等奖"
+    "aboutme_desc": "浙江大学大三本科生，专业课GPA 4.9/5.0，全部课GPA 4.6/5.0，专业排名 2/156。热爱计算机科学，拥有充足的工程实践能力、出色的学习能力以及对新技术的热情。计算机基础扎实，对操作系统、计算机网络、数据库系统均有对应实现的项目。掌握一定的WEB前后端开发技能，能够自己设计、实现前后端分离的web项目。\n 获奖情况:国家奖学金、浙江大学一等奖学金、全国大学生数学竞赛一等奖、小程序大赛华东赛区三等奖"
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
