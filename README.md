@@ -11,6 +11,8 @@
   Jie Zhang\*, **Xuzheng Chen\***, Yin Zhang, Zeke Wang
 - [**ICNP24**] Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [paper](https://arxiv.org/abs/2402.03041) [code](https://github.com/RC4ML/BenchBF3)  
   **Xuzheng Chen\***, Jie Zhang\*, Ting Fu, Yifan Shen, Shu Ma, Kun Qian, Lingjun Zhu, Chao Shi, Ming Liu, Zeke Wang
+- [**HPCA25**] RpcNIC: Enabling Efficient Datacenter RPC Offloading on PCIe-attached SmartNICs [paper](https://arxiv.org/abs/2411.07632) [code](https://github.com/RC4ML/RPCNIC)  
+  Jie Zhang, Hongjing Huang, **Xuzheng Chen**, Xiang Li, Jieru Zhao, Ming Liu, Zeke Wang
 
 
 [![cxz66666's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxz66666)](https://github.com/anuraghazra/github-readme-stats)
