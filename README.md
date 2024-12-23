@@ -7,11 +7,13 @@
 - 📫 You can reach me by [mail](mailto:chenxuz@zju.edu.cn)
 
 #### publication:
-- [**ICDE24**] DmRPC: Disaggregated Memory-aware Datacenter RPC for Data-intensive Applications [paper](https://ieeexplore.ieee.org/document/10597882) [code](https://github.com/cxz66666/DmRPC)  
+- [**ICDE24 CCF-A**] DmRPC: Disaggregated Memory-aware Datacenter RPC for Data-intensive Applications [paper](https://ieeexplore.ieee.org/document/10597882) [code](https://github.com/cxz66666/DmRPC)  
   Jie Zhang\*, **Xuzheng Chen\***, Yin Zhang, Zeke Wang
-- [**ICNP24**] Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [paper](https://arxiv.org/abs/2402.03041) [code](https://github.com/RC4ML/BenchBF3)  
+  
+- [**ICNP24 TH-CPL A**] Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [paper](https://arxiv.org/abs/2402.03041) [code](https://github.com/RC4ML/BenchBF3)  
   **Xuzheng Chen\***, Jie Zhang\*, Ting Fu, Yifan Shen, Shu Ma, Kun Qian, Lingjun Zhu, Chao Shi, Ming Liu, Zeke Wang
-- [**HPCA25**] RpcNIC: Enabling Efficient Datacenter RPC Offloading on PCIe-attached SmartNICs [paper](https://arxiv.org/abs/2411.07632) [code](https://github.com/RC4ML/RPCNIC)  
+  
+- [**HPCA25 CCF-A**] RpcNIC: Enabling Efficient Datacenter RPC Offloading on PCIe-attached SmartNICs [paper](https://arxiv.org/abs/2411.07632) [code](https://github.com/RC4ML/RPCNIC)  
   Jie Zhang, Hongjing Huang, **Xuzheng Chen**, Xiang Li, Jieru Zhao, Ming Liu, Zeke Wang
 
 
