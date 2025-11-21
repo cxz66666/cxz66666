@@ -2,7 +2,7 @@
 
 - 🌱 I am a second-year graduate student majoring in Computer Science and Technology at Zhejiang University.
 - :bug: Research on High-performance Network System/GPU Network/SmartNIC.
-- 😇 Current Soaring Star Talent intern at ByteDance AML engine training.
+- 😇 Once engaged as a Soaring Star Talent intern at ByteDance AML engine training.
 - 🕹️ Once engaged in academic collaboration with Aliyun Storage Networking Department.
 - 💼 Once worked on Container Runtime R&D intern in Aliyun, maintaining internal [Containerd](https://github.com/containerd/containerd) and [Runc](https://github.com/opencontainers/runc).
 - 📫 You can reach me by [mail](mailto:chenxuz@zju.edu.cn)
