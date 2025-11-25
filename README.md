@@ -23,7 +23,7 @@
 - [**ATC25 CCF-A**] SwRDMA: Enabling Software-Programmable Congestion Control in High-Speed NIC RDMA Engines [paper](https://www.usenix.org/conference/atc25/presentation/huang-hongjing) [code](https://github.com/RC4ML/swRDMA)  
   Hongjing Huang, Jie Zhang, **Xuzheng Chen**, Ziyu Song, Jiajun Qin, Zeke Wang
 
-- [**NDSS26 CCF-A**] Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds [paper]()
+- [**NDSS26 CCF-A**] Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds [paper]()  
   Ziteng Chen, Menghao Zhang， Jiahao Cao， **Xuzheng Chen**， Qiyang Peng， Shicheng Wang， Guanyu Li， Mingwei Xu
 
 
