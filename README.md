@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am a second-year graduate student majoring in Computer Science and Technology at Zhejiang University.
+- 🌱 I am a final-year graduate student majoring in Computer Science and Technology at Zhejiang University.
 - :bug: Research on High-performance Network System/GPU Network/SmartNIC.
 - 😇 Once engaged as a Soaring Star Talent intern at ByteDance AML engine training.
 - 🕹️ Once engaged in academic collaboration with Aliyun Storage Networking Department.
